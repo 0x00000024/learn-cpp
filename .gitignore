@@ -2,6 +2,9 @@
 .idea
 cmake-build-debug
 
+# macOS
+.DS_Store
+
 # Prerequisites
 *.d
 
